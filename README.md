@@ -1,6 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vashist Agarwalla</h1>
+
+![Vashist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vashist-Agarwalla&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vashist-Agarwalla&theme=tokyonight)](https://github.com/Vashist-Agarwalla/github-readme-stats)
 
 <!--
+
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 **Vashist-Agarwalla/Vashist-Agarwalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
