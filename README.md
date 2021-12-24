@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vashist Agarwalla</h1>
 
-![Vashist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vashist-Agarwalla&show_icons=true&theme=tokyonight)
+- 🔭 I’m currently working on Full Stack Projects
+- 🌱 I’m currently learning App Development using Flutter
+- 💬 Ask me about C++, JS, TS, MERN Stack
+- 📫 How to reach me: vashist1202@gmail.com
+- 😄 Pronouns: **He/Him**
+- 🔗 Checkout: [vashist.me](https://vashist.me)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vashist-Agarwalla&theme=tokyonight)](https://github.com/Vashist-Agarwalla/github-readme-stats)
+<br>
+
+## 📊 My Github Stats
+
+![Vashist's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashist-agarwalla&show_icons=true&count_private=true&text_color=FFFFFF&hide_border=true&bg_color=202124&title_color=FFA588&icon_color=FFA588)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashist-agarwalla&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=202124&title_color=FFA588&text_color=FFFFFF)
 
 <!--
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vashist Agarwalla</h1>
-
-**Vashist-Agarwalla/Vashist-Agarwalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
