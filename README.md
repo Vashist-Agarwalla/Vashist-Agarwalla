@@ -15,6 +15,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashist-agarwalla&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=202124&title_color=FFA588&text_color=FFFFFF)
 
+## 💡 Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vashist-agarwalla&repo=portfolio-site&text_color=FFFFFF&hide_border=true&bg_color=202124&title_color=FFA588&icon_color=FFA588)](https://github.com/vashist-agarwalla/portfolio-site)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
