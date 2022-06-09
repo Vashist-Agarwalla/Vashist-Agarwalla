@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vashist Agarwalla</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Vashist Agarwalla</h1>
 
 - 🔭 I’m currently working on Full Stack Projects
 - 🌱 I’m currently learning App Development using Flutter
