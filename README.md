@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Vashist Agarwalla</h1>
 
-- 🔭 I’m currently working on Full Stack Projects
-- 🌱 I’m currently learning App Development using Flutter
-- 💬 Ask me about C++, JS, TS, MERN Stack
+- 🔭 I’m currently working on SwiftUI
+- 💬 Ask me about C++, JS, TS, Swift, MERN Stack, UIKit, SwiftUI
 - 📫 How to reach me: vashist1202@gmail.com
 - 😄 Pronouns: **He/Him**
 - 🔗 Checkout: [vashist.me](https://vashist.me)
@@ -10,6 +9,8 @@
 <br>
 
 ## 📊 My Github Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vashist-Agarwalla&theme=ocean-gradient&background=202124&currStreakNum=FFA588&sideNums=FFA588&ring=FFA588&fire=FFA588&border=202124)](https://git.io/streak-stats)
 
 ![Vashist's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashist-agarwalla&show_icons=true&count_private=true&text_color=FFFFFF&hide_border=true&bg_color=202124&title_color=FFA588&icon_color=FFA588)
 
